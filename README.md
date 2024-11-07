@@ -1,6 +1,9 @@
 ## 🪧 NOTICE: "WORK IN PROGRESS" V.0.0.1
 
-![TinyAGI Logo](https://raw.githubusercontent.com/SullyGreene/TinyAGI/refs/heads/main/Static/logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SullyGreene/TinyAGI/refs/heads/main/Static/logo.png" alt="TinyAGI Logo">
+</p>
+
 
 # 🧠 TinyAGI
 
