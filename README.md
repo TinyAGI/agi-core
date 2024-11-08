@@ -1,4 +1,4 @@
-## 🪧 NOTICE: "WORK IN PROGRESS" V.0.0.1
+**Disclaimer:** This is a **preview release** (version 0.0.2). TinyAGI is currently under active development, and this version is intended for testing, feedback, and early experimentation. Expect frequent updates and potential changes to the API.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SullyGreene/TinyAGI/refs/heads/main/Static/logo.png" alt="TinyAGI Logo">
