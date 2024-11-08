@@ -1,0 +1,9 @@
+openai
+gitpython
+flask
+wikipedia
+nltk
+python-dotenv
+llama-cpp-python
+ollama
+black
