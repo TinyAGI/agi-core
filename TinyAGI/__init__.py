@@ -8,7 +8,7 @@
 __version__ = '0.1.0'
 
 from .agent import AgentSystem
-from .utils import load_json
+from .utils.utils_manager import UtilsManager
 from .plugins.plugin_manager import PluginManager
 from .task_manager import TaskManager
 from .modules.module_manager import ModuleManager
@@ -20,7 +20,7 @@ __all__ = [
     'TaskManager',
     'ModuleManager',
     'ToolManager',
-    'load_json'
+    'UtilsManager'
 ]
 
 
